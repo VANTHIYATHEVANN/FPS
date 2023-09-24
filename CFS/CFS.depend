@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1655737654 source:c:\users\ramprasad\onedrive\documents\cfs\main.cpp
+	<iostream>
+	<fstream>
+	<sys/time.h>
+	<cstddef>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	"C:\Users\Ramprasad\OneDrive\Documents\CFS\heap.h"
+	"C:\Users\Ramprasad\OneDrive\Documents\CFS\rbt.h"
+	"C:\Users\Ramprasad\OneDrive\Documents\CFS\heap.cpp"
+	"C:\Users\Ramprasad\OneDrive\Documents\CFS\rbt.cpp"
+
+1655700849 c:\users\ramprasad\onedrive\documents\cfs\heap.h
+
+1655700760 c:\users\ramprasad\onedrive\documents\cfs\rbt.h
+
+1655700808 c:\users\ramprasad\onedrive\documents\cfs\heap.cpp
+
+1655735687 c:\users\ramprasad\onedrive\documents\cfs\rbt.cpp
+
